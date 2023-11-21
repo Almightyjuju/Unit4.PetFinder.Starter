@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "petfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Introduction",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
